@@ -71,4 +71,4 @@ You can also check out the [React GitHub repository](https://github.com/facebook
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/drishtiisharma/Anime-Filter/blob/main/LICENSE).
