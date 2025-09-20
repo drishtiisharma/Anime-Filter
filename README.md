@@ -1,4 +1,4 @@
-# 🎬 Anime Filter
+# Anime Filter
 
 A sleek React application that intelligently filters your anime list, removing duplicates and excluding movies, OVAs, specials, and other non-series content. Perfect for organizing your anime collection.
 
